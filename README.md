@@ -1,3 +1,2 @@
-# 2019-nCov
-This is the Ds final work. 
-This is the Ds final work. Members:ZFX YX DHT DJL CHH XSH
+# MyAlgo
+来自FW大学生的算法作业，包括各种各种的东西，我会把很多乱七八糟的放上去
